@@ -25,7 +25,7 @@
 
 <h2 id="viewerName"> Talking to: John Doe</h2>
 <!-- Image source: https://www.britannica.com/biography/John-Krasinski  -->
-<img id="currentViewer" src="..\lib\images\American-actor-John-Krasinski-2020.webp" alt="John">
+<img id="currentViewer" src="./American-actor-John-Krasinski-2020.webp" alt="John">
 <p id="transcription">Transcription: {transcription}</p>
 
 <style>
